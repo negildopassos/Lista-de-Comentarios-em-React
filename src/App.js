@@ -9,13 +9,13 @@ class App extends Component {
       {
         nome: "Junior",
         email: "junior@mail.com",
-        data: new Date(2022, 1, 31),
+        data: new Date(2022, 1, 31, 17,35,0),
         mensagem: "Olá, tudo bem?"
       },
       {
         nome: "franciso",
         email: "francisco@mail.com",
-        data: new Date(2022, 1, 29),
+        data: new Date(2022, 1, 29, 14,25,0),
         mensagem: "Tudo e com você?"
       }
     ],
